@@ -1,6 +1,6 @@
-#List of Resources
+# List of Resources
 
-##The following is a list of handy resources to learn git
+## The following is a list of handy resources to learn git
 
 1. [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
 2. [Learning Git One Commit at a Time by Nick Quaranto](http://gitready.com/)
